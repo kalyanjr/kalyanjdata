@@ -1,0 +1,16 @@
+---
+title: "Drug Supply Chain Integrity"
+author: "Bandaru"
+date: "2023-05-07"
+categories: [code, analysis, news]
+---
+
+This is a post with news on Drug supply chain integrity.
+
+Description:
+
+• Explored proof-of-concept application that keeps track of drug records using blockchain technology in a decentralized way
+
+• Enables manufacturer, supplier, patients, and pharmacists to manage, access a complete individual drug life cycle in a secure and accountable way through comprehensive logs.
+
+• To achieve the transparency, security, and privacy of the proposed system, we used a smartcontract developed in the solidity programming language in combination with permission blockchain architecture.

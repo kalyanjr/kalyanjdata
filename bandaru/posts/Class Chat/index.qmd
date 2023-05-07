@@ -1,0 +1,16 @@
+---
+title: "Class Chat"
+author: "Bandaru"
+date: "2023-05-07"
+categories: [analysis, news]
+---
+
+This is a post with news Class chat.
+
+Description: 
+
+• Similar to WhatsApp, this is a chat on the server i.e., made up of two apps, which. Runs on the user’s browser and the server.
+
+• To chat the user should connect with the server by the process of the login where they can do private and group chat.
+
+• This application is intended to class or form department.

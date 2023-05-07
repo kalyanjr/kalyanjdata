@@ -1,0 +1,13 @@
+---
+title: "Post With Plot"
+author: "Bandaru"
+date: "2023-05-07"
+categories: [code, analysis, plot]
+image: "image.jpg"
+---
+
+This is a post with plot.
+
+```{r}
+plot(mtcars$mpg)
+```

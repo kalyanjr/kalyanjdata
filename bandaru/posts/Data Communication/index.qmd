@@ -1,0 +1,14 @@
+---
+title: "Data Communication"
+author: "Bandaru"
+date: "2023-05-07"
+categories: [analysis, news]
+---
+
+This is a post with news on Data Communication.
+
+Description:
+
+• the aim of the project was about giving a brief demonstration how data transmission will be done on the internet in LAN and WAN using different primitives available in the OpenGL library and combining them together in a required manner.
+
+• Implementation is done by OpenGL and Microsoft Visual C++
